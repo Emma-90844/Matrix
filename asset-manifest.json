@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Matrix/static/css/main.b27e395a.css",
+    "main.js": "/Matrix/static/js/main.e366fbc0.js",
+    "index.html": "/Matrix/index.html",
+    "main.b27e395a.css.map": "/Matrix/static/css/main.b27e395a.css.map",
+    "main.e366fbc0.js.map": "/Matrix/static/js/main.e366fbc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27e395a.css",
+    "static/js/main.e366fbc0.js"
+  ]
+}
